@@ -11,7 +11,7 @@ type News = {
 
 // GET API
 export async function GET() {
-  const filePath = path.join(process.cwd(), "public", "news.json");
+  const filePath = path.join(process.cwd(), "src/public/json", "news.json");
   const jsonData = fs.readFileSync(filePath, "utf-8");
   const news: News[] = JSON.parse(jsonData);
 
