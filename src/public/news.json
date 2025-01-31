@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking News: Next.js 15 Released!",
+    "category": "Technology"
+  },
+  {
+    "id": 2,
+    "title": "Football World Cup 2026 Schedule Announced",
+    "category": "Sports"
+  },
+  {
+    "id": 3,
+    "title": "Stock Market Hits Record High",
+    "category": "Finance"
+  }
+]
